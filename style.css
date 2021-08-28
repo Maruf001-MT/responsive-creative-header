@@ -32,7 +32,7 @@
     color: #BDBAB4;
 }
 .desk-nav a:hover{
-    color: #ff4500;
+    color: #FF7C00;
 }
 .desk-nav i{
     color: #7e7e7e;
@@ -112,7 +112,7 @@
 }
 .login-btn a{
     border: none;
-    background-color: #ff4500;
+    background-color: #FF7C00;
     color: white;
     border-radius: 35px;
     padding: 13px;
@@ -123,7 +123,7 @@
 }
 .login-btn a:hover{
     color: white;
-    background-color: #FF7C00;
+    background-color: #ff4500;
 }
 .menu{
     display: none;
@@ -251,7 +251,7 @@
 
      }
      .phn-menu a:hover{
-         color: #FF4500;
+         color: #FF7C00;
      }
      .first-phn-dropdown-container, .second-phn-dropdown-container, .third-phn-dropdown-container{
         display: block;
@@ -341,14 +341,14 @@
     .login-btn a{
         border: none;
         padding: 10px;
-        background-color: #ff4500;
+        background-color: #FF7C00;
         color: white;
         border-radius: 20px;
         font-size: .8rem;
     }
     .login-btn a:hover{
         color: white;
-        background-color: #FF7C00;
+        background-color: #ff4500;
     }
 }
 
