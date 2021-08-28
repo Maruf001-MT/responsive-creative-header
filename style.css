@@ -291,7 +291,7 @@
     .first-phn-dropdown-content.active{
         display: block;
         transition: 0.3s;
-        animation: dropdown 0.3s linear 1;
+        animation: dropdown 0.1s linear 1;
     }
     @keyframes dropdown {
         0%{
