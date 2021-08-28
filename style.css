@@ -290,12 +290,28 @@
     }
     .first-phn-dropdown-content.active{
         display: block;
+        transition: 0.5s;
+        animation: dropdown 0.5s linear 1;
+    }
+    @keyframes dropdown {
+        0%{
+            top: -50px;
+            opacity: 0;
+        }
+        100%{
+            top: 0px;
+            opacity: 1;
+        }
     }
     .second-phn-dropdown-content.active{
         display: block;
+        transition: 0.5s;
+        animation: dropdown 0.5s linear 1;
     }
     .third-phn-dropdown-content.active{
         display: block;
+        transition: 0.5s;
+        animation: dropdown 0.5s linear 1;
     }
     
     .first-phn-dropdown-content a, .second-phn-dropdown-content a, .third-phn-dropdown-content a{
