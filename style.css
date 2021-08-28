@@ -305,12 +305,10 @@
     }
     .second-phn-dropdown-content.active{
         display: block;
-        transition: 0.5s;
         animation: dropdown 0.3s linear 1;
     }
     .third-phn-dropdown-content.active{
         display: block;
-        transition: 0.5s;
         animation: dropdown 0.3s linear 1;
     }
     
